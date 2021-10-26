@@ -1,0 +1,35 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-26T05:43:10.056048",
+    "startedAt": "2021-10-26T05:43:09.220351",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/ozkans/Dev/UdacityMLOpsDevEng/genre_classification/outputs/2021-10-26/00-42-26/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "git@github.com:oserttas-math/genre_classification.git",
+        "commit": "5a3313ca32973462b638fcf59c9ed363b6115fb7"
+    },
+    "email": "30179956+oserttas-math@users.noreply.github.com",
+    "root": "/Users/ozkans/Dev/UdacityMLOpsDevEng/genre_classification",
+    "host": "OZKANs-MacBook-Pro.local",
+    "username": "ozkans",
+    "executable": "/Users/ozkans/opt/miniconda3/envs/mlflow-259d53ab44a1e9011b0c64ae862f43343c0fc9e5/bin/python"
+}

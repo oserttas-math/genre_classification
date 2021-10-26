@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ozkans/Dev/UdacityMLOpsDevEng/genre_classification/mlruns/0/981a25d91f1740a086c176a1f5240778/artifacts
+end_time: 1635226622730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 981a25d91f1740a086c176a1f5240778
+run_uuid: 981a25d91f1740a086c176a1f5240778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1635226610161
+status: 3
+tags: []
+user_id: ozkans
